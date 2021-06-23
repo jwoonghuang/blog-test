@@ -1,6 +1,4 @@
----
-theme: juejin
----
+
 ### 使用`curl`命令发起请求
 ```
 curl -s -v -- "www.baidu.com"        使用curl发起GET请求
